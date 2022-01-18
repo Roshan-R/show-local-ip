@@ -1,0 +1,8 @@
+{
+    "uuid": "show-local-ip@Roshan-R",
+    "name": "Show local ip desklet",
+    "description": "A simple desklet to show the local ip of the computer",
+    "prevent-decorations": false,
+    "font-size": "15pt",
+    "author": "Roshan-R"
+}
